@@ -1,0 +1,18 @@
+h1 {
+	color: rgb(255,255,255);
+	background: #333;
+	margin: 0;
+	padding: 10px 30px;
+}
+
+h1 div {
+	color: rgb(200,50,50);
+	float:left;
+}
+
+p {
+	width: 100%;
+	background: rgb(255,230,230);
+	padding: 20px 0px;
+	text-align: center;
+}
